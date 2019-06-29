@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConductorPushTheBrake</string>
+    <string name="find_the_conductor">Найти кондуктора</string>
+    <string name="press_the_brake">Попросить нажать на тормоз</string>
+    <string name="buy_the_ticket">Купить билет</string>
+    <string name="let_tram_go">Попросить ехать дальше</string>
+    <string name="step_out">Сойти с трамвая</string>
+    <string name="tickets_count">Билетов куплено: %1$d</string>
+</resources>
